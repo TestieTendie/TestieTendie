@@ -24,7 +24,7 @@ Here's a list of the modifications and scripts in this server:
 
 [Left4Bots](https://steamcommunity.com/sharedfiles/filedetails/?id=2279814689): Enhanced Bot AI.
 
-[utomatic Campaign Switcher](https://forums.alliedmods.net/showthread.php?t=308708) Select/vote for the next campaign when you're on the finale map.
+[Automatic Campaign Switcher](https://forums.alliedmods.net/showthread.php?t=308708) Select/vote for the next campaign when you're on the finale map.
 
 [Self-Propelled props](https://steamcommunity.com/sharedfiles/filedetails/?id=2682057528): Makes Oxygen and Gas Tanks fly or move around when shot before exploding.
 
