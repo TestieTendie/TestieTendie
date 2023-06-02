@@ -1,4 +1,5 @@
-### Hi there 👋
+## I keep server files, ban lists, etc here.
+### NA-Dallas L4D2 Server: 104.223.101.24:7016
 
 <!--
 **TestieTendie/TestieTendie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
