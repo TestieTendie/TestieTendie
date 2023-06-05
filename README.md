@@ -41,6 +41,7 @@ Modifications and scripts in this server:
 - [Dead Vacation](https://steamcommunity.com/sharedfiles/filedetails/?id=2034272611&searchtext=dead+vacation) - Linked version has another date, need to check it - 2023 May 16 Version
 - [Deadbeat Escape Complete](https://steamcommunity.com/sharedfiles/filedetails/?id=2249227977&searchtext=Deadbeat+Escape+Complete)
 - [Devils Mountain](https://steamcommunity.com/sharedfiles/filedetails/?id=316053033) - 2015 September 18 Version
+- [Diescraper Redux](https://steamcommunity.com/sharedfiles/filedetails/?id=121116980) - 2018 October 29 Version
 - [Energy Crisis](https://steamcommunity.com/sharedfiles/filedetails/?id=526660543&searchtext=energy+crisis) - 2023 April 20 Version
 - [Fall In Death (Complete)](https://steamcommunity.com/sharedfiles/filedetails/?id=2248464111) - 2020 October 05 Version
 - [Farewell Chenming](https://steamcommunity.com/sharedfiles/filedetails/?id=788564919) - 2016 October 28 Version
