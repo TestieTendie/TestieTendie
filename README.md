@@ -12,7 +12,7 @@ Here's a list of the modifications and scripts in this server:
 [Reverse Friendly Fire](https://steamcommunity.com/sharedfiles/filedetails/?id=2280444652): Protects from FF and applies 2/3 of the inflicted FF damage to the attacker. (ON by default)
    ##### NOTE: Will likely change to a SM plugin, got [this one](https://forums.alliedmods.net/showthread.php?t=329035) in mind.
   
-[Mo'Zombies](https://steamcommunity.com/sharedfiles/filedetails/?id=2965124381): Doubles the max number of zombies alive (ONLY for the original 14 campaigns, NOT for custom ones), adds 100 rounds to the LMG and triples Chainsaw fuel (All campaigns).
+[Mo'Zombies](https://steamcommunity.com/sharedfiles/filedetails/?id=2965124381): Doubles the max number of zombies alive (ONLY for the 14 original campaigns, NOT for custom ones), adds 100 rounds to the LMG and triples Chainsaw fuel (All campaigns).
 
 [Autobunnyhop](https://forums.alliedmods.net/showthread.php?t=291999): Hold jump while strafe jumping to autobhop.
     
