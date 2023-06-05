@@ -38,7 +38,7 @@ Modifications and scripts in this server:
 <h2 align="center">Custom campaigns in this server from addonlist.txt:</h2>
 
 - [Condition StranDead (Tank Factory Edit) v23](https://steamcommunity.com/sharedfiles/filedetails/?id=1857716974) - 2019 October 08 Version
-- [Dark Blood 2 v3](https://steamcommunity.com/sharedfiles/filedetails/?id=121175467) - 2013 January 18 Version
+- [Dark Blood 2](https://steamcommunity.com/sharedfiles/filedetails/?id=121175467) - 2013 January 18 Version
 - [Dark Carnival Remix](https://steamcommunity.com/sharedfiles/filedetails/?id=1575673903) - 2019 December 01 Version
 - [Dead Vacation](https://steamcommunity.com/sharedfiles/filedetails/?id=2034272611&searchtext=dead+vacation) - Linked version has another date, need to check it - 2023 May 16 Version
 - [Deadbeat Escape Complete](https://steamcommunity.com/sharedfiles/filedetails/?id=2249227977) - 2020 October 05
