@@ -71,5 +71,5 @@ Modifications and scripts in this server:
 
 <h2 align="center">Custom survival only maps in this server from addonlist.txt:</h2>
 
-- [CJHouse Interior](https://steamcommunity.com/sharedfiles/filedetails/?id=2790545702) - 2022 June 17 Version
+- [CJ House Interior](https://steamcommunity.com/sharedfiles/filedetails/?id=2790545702) - 2022 June 17 Version
 - [Santa can I go out and kill tonight 2](https://steamcommunity.com/sharedfiles/filedetails/?id=121460643) - 2013 January 19 Version
