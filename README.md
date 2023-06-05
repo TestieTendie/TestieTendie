@@ -12,7 +12,9 @@ Modifications and scripts in this server:
 [Self-Ban](https://github.com/TestieTendie/Self-Ban-Sourcemod) Players can type !banme in the chatbox to get permanently banned in case they don't want to connect to the server anymore.
 
 [Reverse Friendly Fire](https://forums.alliedmods.net/showthread.php?t=329035): Protects from FF and applies the inflicted FF damage to the attacker.
-  
+
+[Take bot item](https://steamcommunity.com/sharedfiles/filedetails/?id=2262433022): Shove bots to take their items.
+
 [Mo'Zombies](https://steamcommunity.com/sharedfiles/filedetails/?id=2965124381): Doubles the max number of zombies alive (ONLY for the 14 original campaigns, NOT custom ones), adds 100 rounds to the LMG and triples Chainsaw fuel (All campaigns).
 
 [Autobunnyhop](https://forums.alliedmods.net/showthread.php?t=291999): Hold jump while strafe jumping to autobhop.
@@ -39,7 +41,7 @@ Modifications and scripts in this server:
 - [Dark Blood 2 v3](https://steamcommunity.com/sharedfiles/filedetails/?id=121175467) - 2013 January 18 Version
 - [Dark Carnival Remix](https://steamcommunity.com/sharedfiles/filedetails/?id=1575673903) - 2019 December 01 Version
 - [Dead Vacation](https://steamcommunity.com/sharedfiles/filedetails/?id=2034272611&searchtext=dead+vacation) - Linked version has another date, need to check it - 2023 May 16 Version
-- [Deadbeat Escape Complete](https://steamcommunity.com/sharedfiles/filedetails/?id=2249227977&searchtext=Deadbeat+Escape+Complete)
+- [Deadbeat Escape Complete](https://steamcommunity.com/sharedfiles/filedetails/?id=2249227977) - 2020 October 05
 - [Devils Mountain](https://steamcommunity.com/sharedfiles/filedetails/?id=316053033) - 2015 September 18 Version
 - [Diescraper Redux](https://steamcommunity.com/sharedfiles/filedetails/?id=121116980) - 2018 October 29 Version
 - [Energy Crisis](https://steamcommunity.com/sharedfiles/filedetails/?id=526660543&searchtext=energy+crisis) - 2023 April 20 Version
@@ -50,7 +52,7 @@ Modifications and scripts in this server:
 - [Glubtastic 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2066106924) - 2020 April 18 Version
 - [Glubtastic 3](https://steamcommunity.com/sharedfiles/filedetails/?id=2139756699) - 2020 June 28 Version
 - [Glubtastic 4](https://steamcommunity.com/sharedfiles/filedetails/?id=2459037122) - 2021 April 21 Version
-- [Glubtastic Back 4 Glub](https://steamcommunity.com/sharedfiles/filedetails/?id=2795386618) - 2022 April 20 Version
+- [Glubtastic: Back 4 Glub](https://steamcommunity.com/sharedfiles/filedetails/?id=2795386618) - 2022 April 20 Version
 - [Gridlock](https://steamcommunity.com/sharedfiles/filedetails/?id=760657091&searchtext=gridlock) - 2016 September 09 Version
 - [Let's Build A Rocket](https://steamcommunity.com/sharedfiles/filedetails/?id=324500451&searchtext=let%27s+build+a+rocket) - 2014 October 09 Version
 - [Lockdown](https://steamcommunity.com/sharedfiles/filedetails/?id=2108461892&searchtext=lockdown) - 2021 March 05 Version
