@@ -64,7 +64,7 @@ Modifications and scripts in this server:
 - [Tanks Playground](https://steamcommunity.com/sharedfiles/filedetails/?id=121108123&searchtext=tanks+playground) - 2017 September 04 Version
 - [Time To Die](https://steamcommunity.com/sharedfiles/filedetails/?id=2257961887) - 2022 March 27 Version
 - [Urban Flight](https://steamcommunity.com/sharedfiles/filedetails/?id=121086524) - 2013 July 30 Version
-- [Yama](https://steamcommunity.com/workshop/filedetails/?id=170392241)
+- [Yama (Finale Fixed)](https://steamcommunity.com/sharedfiles/filedetails/?id=2498978864) - 2023 January 30 Version
 
 <h2 align="center">Custom survival only maps in this server from addonlist.txt:</h2>
 
