@@ -9,6 +9,8 @@
 
 Here's a list of the modifications and scripts in this server:
 
+[Self-Ban](https://github.com/TestieTendie/Self-Ban-Sourcemod) Players can type !banme in the chatbox to get permanently banned in case they don't want to connect to the server anymore.
+
 [Reverse Friendly Fire](https://steamcommunity.com/sharedfiles/filedetails/?id=2280444652): Protects from FF and applies 2/3 of the inflicted FF damage to the attacker. (ON by default)
    ##### NOTE: Will likely change to a SM plugin, got [this one](https://forums.alliedmods.net/showthread.php?t=329035) in mind.
   
