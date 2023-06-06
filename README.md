@@ -40,8 +40,8 @@ Modifications and scripts in this server:
 - [Condition StranDead (Tank Factory Edit) v23](https://steamcommunity.com/sharedfiles/filedetails/?id=1857716974) - 2019 October 08 Version
 - [Dark Blood 2](https://steamcommunity.com/sharedfiles/filedetails/?id=121175467) - 2013 January 18 Version
 - [Dark Carnival Remix](https://steamcommunity.com/sharedfiles/filedetails/?id=1575673903) - 2019 December 01 Version
-- [Dead Vacation](https://steamcommunity.com/sharedfiles/filedetails/?id=2034272611&searchtext=dead+vacation) - Linked version has another date, need to check it - 2023 May 16 Version
-- [Deadbeat Escape Complete](https://steamcommunity.com/sharedfiles/filedetails/?id=2249227977) - 2020 October 05
+- [Dead Vacation](https://steamcommunity.com/sharedfiles/filedetails/?id=2034272611&searchtext=dead+vacation) - 2023 May 16 Version
+- [Deadbeat Escape Complete](https://steamcommunity.com/sharedfiles/filedetails/?id=2249227977) - 2020 October 05 Version
 - [Devils Mountain](https://steamcommunity.com/sharedfiles/filedetails/?id=316053033) - 2015 September 18 Version
 - [Diescraper Redux](https://steamcommunity.com/sharedfiles/filedetails/?id=121116980) - 2018 October 29 Version
 - [Energy Crisis](https://steamcommunity.com/sharedfiles/filedetails/?id=526660543&searchtext=energy+crisis) - 2023 April 20 Version
