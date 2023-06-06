@@ -17,7 +17,7 @@ Modifications and scripts in this server:
 
 [Mo'Zombies](https://steamcommunity.com/sharedfiles/filedetails/?id=2965124381): Doubles the max number of zombies alive (ONLY for the 14 original campaigns, NOT custom ones), adds 100 rounds to the LMG and triples Chainsaw fuel (All campaigns).
 
-[Autobunnyhop](https://forums.alliedmods.net/showthread.php?t=291999): Hold jump while strafe jumping to autobhop.
+[Autobunnyhop](https://github.com/TestieTendie/sm_bhop_disabled_by_default): Hold jump while strafe jumping to autobhop.
     
     You can toggle autobhop by typing "!autobhop" in the chat. (OFF by default).
   
