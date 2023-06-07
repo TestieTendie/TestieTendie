@@ -2,7 +2,7 @@
 <h1 align="center">Server files, sorse code, backups, tools, etc... are here.</h1>
 
 <h3 align="center">NA-Dallas L4D2 Server:</h3>
-<h3 align="center"><a href="https://intradeus.github.io/http-protocol-redirector?r=steam://connect/104.223.101.24:7016">104.223.101.24:7016</a></h3>
+<h3 align="center"><a href="https://intradeus.github.io/http-protocol-redirector?r=steam://connect/l4d2.testietendie.xyz:7016">l4d2.testietendie.xyz:7016</a></h3>
 
 ​
 <h2 align="center">Server description from MOTD.txt:</h2>
