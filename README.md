@@ -6,8 +6,10 @@
 
 ​
 <h2 align="center">Server description from MOTD.txt:</h2>
+
 🔴: Disabled
 🟢: Enabled
+
 Modifications and scripts in this server:
 
 🟢[Self-Ban](https://github.com/TestieTendie/Self-Ban-Sourcemod) Players can type !banme in the chatbox to get permanently banned in case they don't want to connect to the server anymore.
