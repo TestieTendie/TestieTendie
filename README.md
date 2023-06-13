@@ -102,6 +102,8 @@ Modifications and scripts in this server:
 
 🟢[Yama (Finale Fixed)](https://steamcommunity.com/sharedfiles/filedetails/?id=2498978864) - 2023 January 30 Version
 
+🟢[Warcelona](https://steamcommunity.com/sharedfiles/filedetails/?id=1910147798) - 2019 November 10 Version
+
 <h2 align="center">Custom survival only maps in this server from addonlist.txt:</h2>
 
 🟢[CJ House Interior](https://steamcommunity.com/sharedfiles/filedetails/?id=2790545702) - 2022 June 17 Version
