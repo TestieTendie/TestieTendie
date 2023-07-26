@@ -18,7 +18,7 @@ Modifications and scripts in this server:
 
 🟢[Take bot item](https://steamcommunity.com/sharedfiles/filedetails/?id=2262433022): Shove bots to take their items.
 
-🔴[Mo'Zombies](https://steamcommunity.com/sharedfiles/filedetails/?id=2965124381): Doubles the max number of zombies alive (ONLY for the 14 original campaigns, NOT custom ones), adds 100 rounds to the LMG and triples Chainsaw fuel (All campaigns).
+🔴[Mo'Zombies](https://steamcommunity.com/sharedfiles/filedetails/?id=2965124381): Doubles the max number of zombies alive (on the 14 original campaigns, AND custom ones using the default director gauntlet/onslaught scripts), adds 100 rounds to the LMG and triples Chainsaw fuel (All campaigns).
 
 🟢[Autobunnyhop](https://github.com/TestieTendie/sm_bhop_disabled_by_default): Hold jump while strafe jumping to autobhop.
     
@@ -34,7 +34,7 @@ Modifications and scripts in this server:
 
 🟢[Self-Propelled props](https://steamcommunity.com/sharedfiles/filedetails/?id=2682057528): Makes Oxygen and Gas Tanks fly or move around when shot before exploding.
 
-🟢[Dynamic Light](https://steamcommunity.com/sharedfiles/filedetails/?id=2261165699): Adds lighting to Molotovs, Pipeboms, Spit, Fire, etc.
+🟢[Dynamic Light](https://steamcommunity.com/sharedfiles/filedetails/?id=2261165699): Adds lighting to Molotovs, Pipeboms, Spit, Fire, Muzzle Flash, etc.
 
 🟢[Survivor Legs](https://forums.alliedmods.net/showthread.php?t=299560): You can see your own legs.
 
